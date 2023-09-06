@@ -1,2 +1,2 @@
 # My_homework_sql
-My completed SQL homework for an example of the code I wrote
+Мои выполненные домашние задания на SQL для примера написанного мной кода
